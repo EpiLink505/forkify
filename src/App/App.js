@@ -10,3 +10,4 @@ import * as controller from './controller/controller';
 
 controller.init();
 console.log('Welcome!');
+console.log('Cypress');
