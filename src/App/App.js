@@ -9,4 +9,5 @@ import * as controller from './controller/controller';
 ///////////////////////////////////////
 
 controller.init();
-console.log('Pull Request');
+console.log('Make a lot of changes');
+console.log('For this PR');
