@@ -9,6 +9,4 @@ import * as controller from './controller/controller';
 ///////////////////////////////////////
 
 controller.init();
-console.log('Make a lot of changes');
-console.log('For this PR');
-console.log('Test 8/19');
+console.log('Lets see the integration');
