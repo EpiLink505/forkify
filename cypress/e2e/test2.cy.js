@@ -1,6 +1,7 @@
 describe('empty spec', () => {
   it('passes', () => {
-    cy.visit('https://ppham-forkify.netlify.app/');
+    cy.visit('/');
+    // cy.visit('https://ppham-forkify.netlify.app/');
     cy.get('.search__field').type('Cake');
     cy.contains('Search').click();
     cy.contains('Jello Dream Cake').click();
