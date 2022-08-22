@@ -11,3 +11,4 @@ import * as controller from './controller/controller';
 controller.init();
 console.log('8/22 11:35am');
 console.log('8/22 11:40am');
+console.log('8/22 12:00pm');
