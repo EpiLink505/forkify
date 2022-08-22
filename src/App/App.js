@@ -8,4 +8,4 @@ import * as controller from './controller/controller';
 
 ///////////////////////////////////////
 
-// controller.init();
+controller.init();
