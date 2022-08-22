@@ -9,4 +9,4 @@ import * as controller from './controller/controller';
 ///////////////////////////////////////
 
 // controller.init();
-console.log('Lets see the integration');
+console.log('new-pr-test');
