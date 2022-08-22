@@ -8,5 +8,5 @@ import * as controller from './controller/controller';
 
 ///////////////////////////////////////
 
-controller.init();
+// controller.init();
 console.log('Lets see the integration');
