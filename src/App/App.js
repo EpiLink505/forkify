@@ -9,3 +9,4 @@ import * as controller from './controller/controller';
 ///////////////////////////////////////
 
 controller.init();
+console.log('8/22 11:35am');
