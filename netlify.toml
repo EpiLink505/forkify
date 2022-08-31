@@ -2,11 +2,6 @@
 CYPRESS_CACHE_FOLDER = "./node_modules/CypressBinary"
 TERM = "xterm"
 
-[[context.production.plugins]]
-package = "netlify-plugin-cypress"
-  [context.production.plugins.inputs]
-  record = false
-
 [[context.staging.plugins]]
 package = "netlify-plugin-cypress"
   [context.staging.plugins.inputs]
