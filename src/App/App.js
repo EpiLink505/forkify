@@ -10,3 +10,4 @@ import * as controller from './controller/controller';
 
 controller.init();
 console.log('8/24 8:20am');
+console.log('Staging');
