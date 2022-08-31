@@ -9,4 +9,4 @@ import * as controller from './controller/controller';
 ///////////////////////////////////////
 
 controller.init();
-console.log('Staging2');
+console.log('Staging3');
